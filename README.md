@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zanbour/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 ###
